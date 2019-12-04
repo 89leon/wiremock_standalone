@@ -1,0 +1,18 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/api/mytest"
+    },
+    "response": {
+        "status": 200,
+        "body": "More content\n"
+    },
+    "request": {
+        "method": "GET",
+        "url": "/api/mytest2"
+    },
+    "response": {
+        "status": 200,
+        "body": "More content2\n"
+    }
+}
